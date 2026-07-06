@@ -92,11 +92,9 @@ Full-stack e-commerce platform for premium Italian olive oil.
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=tetiana-a&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=tetiana-a&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&no-bg=true"/>
+</p>
 
 ---
 
