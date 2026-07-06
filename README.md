@@ -74,42 +74,11 @@ Full-stack e-commerce platform for premium Italian olive oil.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tetiana-a&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=tetiana-a&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tetiana-a&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=tetiana-a&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tetiana-a&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=tetiana-a&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/tetiana-a/tetiana-a/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
 ## 🌐 Portfolio
 
 🔗 https://tetiana-a.github.io/aiAutomationDev/
