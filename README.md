@@ -4,79 +4,117 @@
 
 ### AI Automation Engineer • AI Agents • LLM Applications • RAG • Full-Stack AI Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Building+Production-Ready+AI+Systems;AI+Agents+%7C+RAG+%7C+LLM+Applications;n8n+%7C+OpenAI+%7C+PostgreSQL+%7C+TypeScript;Automating+Real+Business+Processes" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Building+Production-Ready+AI+Systems;AI+Agents+%7C+RAG+%7C+Workflow+Automation;OpenAI+API+%7C+n8n+%7C+PostgreSQL;Automating+Real+Business+Processes" />
+
+<br/>
+
+<a href="https://linkedin.com/in/tetiana-kotolup">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://tetiana-a.github.io/aiAutomationDev/">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/tetiana-a">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=tetiana-a&style=for-the-badge&color=0e75b6"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I build production-ready AI automation systems that eliminate manual work through **AI Agents, LLM workflows, RAG, n8n automations, and full-stack applications**.
+I design and build production-ready AI automation systems that eliminate manual work through **AI Agents, LLM applications, workflow automation, and modern backend technologies.**
 
-- 🤖 AI Agents & LLM Applications  
-- ⚡ n8n Workflow Automation  
-- 🧠 RAG Systems  
-- 🔗 API Integrations  
-- 🐘 PostgreSQL / Supabase  
-- 💬 Telegram Bots  
-- 🌐 Full-Stack AI Systems  
+### Areas of expertise
+
+- 🤖 AI Agents
+- 🧠 Retrieval-Augmented Generation (RAG)
+- ⚡ n8n Workflow Automation
+- 💬 OpenAI API
+- 📩 AI Email Automation
+- 📊 AI CRM Systems
+- 💰 AI Financial Assistants
+- 🔗 REST APIs & Webhooks
+- 🐘 PostgreSQL & Supabase
+- 🌐 Full-Stack AI Applications
 
 ---
 
-## ⚙️ Tech Stack
+# ⚙️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,nodejs,express,react,nextjs,postgres,supabase,html,css,js,github,vscode" />
+<img src="https://skillicons.dev/icons?i=ts,nodejs,express,nextjs,react,postgres,supabase,html,css,js,git,github,vscode,docker"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-Production_AI-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI_Agents-LLM_Workflows-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Webhooks-Automation-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/RAG-LLM-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI_Agents-Production-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Webhooks-Automation-orange?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🤖 AI CRM
-AI-powered CRM with Telegram integration, AI lead qualification, workflow automation and customer management.  
-🔗 https://github.com/tetiana-a/ai-crm
-
-### 📩 AI Email Processing Platform
-AI agent for email classification, sentiment detection, priority scoring and response generation.  
-🔗 https://github.com/tetiana-a/n8n_AI-Agent_for_Email_Processing_and_Analytics
-
-### 💰 WealthMirror AI
-AI financial assistant using OpenAI, Telegram, PostgreSQL, Prisma and TypeScript.  
-🔗 https://github.com/tetiana-a/wealthmirror-ai
-
-### 🧠 MindPocket
-AI mental wellness assistant with AI chat, mood tracking, journaling and crisis support.  
-🔗 https://github.com/tetiana-a/MindPocket
-
-### ⚡ AI Sales Automation
-AI sales automation platform with voice workflows, CRM automation and lead analytics.  
-🔗 https://github.com/tetiana-a/AI-Sales-Automation
-
-### 🇮🇹 Eco Italia
-Full-stack e-commerce platform for premium Italian olive oil.  
-🔗 https://github.com/tetiana-a/eco-italia
+| Project | Description |
+|---------|-------------|
+| 🤖 **AI CRM** | AI-powered CRM with Telegram integration, lead qualification, customer management and workflow automation. |
+| 📩 **AI Email Processing Platform** | AI agent for email classification, sentiment analysis, priority detection and automated responses. |
+| 💰 **WealthMirror AI** | Financial AI assistant powered by OpenAI, PostgreSQL, Telegram Bot and TypeScript. |
+| 🧠 **MindPocket** | AI mental wellness platform with AI chat, journaling, mood tracking and premium subscriptions. |
+| ⚡ **AI Sales Automation** | End-to-end AI sales automation platform with voice workflows, CRM integration and lead analytics. |
+| 🇮🇹 **Eco Italia** | Full-stack e-commerce platform for premium Italian olive oil with AI-powered backend. |
 
 ---
 
-## 📊 GitHub Analytics
+# 📂 Project Links
+
+### 🤖 AI CRM
+
+https://github.com/tetiana-a/ai-crm
+
+### 📩 AI Email Processing
+
+https://github.com/tetiana-a/n8n_AI-Agent_for_Email_Processing_and_Analytics
+
+### 💰 WealthMirror AI
+
+https://github.com/tetiana-a/wealthmirror-ai
+
+### 🧠 MindPocket
+
+https://github.com/tetiana-a/MindPocket
+
+### ⚡ AI Sales Automation
+
+https://github.com/tetiana-a/AI-Sales-Automation
+
+### 🇮🇹 Eco Italia
+
+https://github.com/tetiana-a/eco-italia
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tetiana-a&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=tetiana-a&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tetiana-a&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tetiana-a&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -84,52 +122,77 @@ Full-stack e-commerce platform for premium Italian olive oil.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=tetiana-a&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=tetiana-a&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=tetiana-a&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&no-bg=true"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/tetiana-a/tetiana-a/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tetiana-a&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🌐 Portfolio
+# 💼 Current Focus
 
-🔗 https://tetiana-a.github.io/aiAutomationDev/
-
-## 💼 LinkedIn
-
-🔗 https://linkedin.com/in/tetiana-kotolup
+- Production AI Agents
+- Enterprise Workflow Automation
+- Retrieval-Augmented Generation
+- AI CRM Platforms
+- LLM Applications
+- OpenAI Integrations
+- PostgreSQL Backends
+- AI Automation for Business
 
 ---
 
-## 💼 Open to Opportunities
+# 🌍 Portfolio
 
-- AI Automation Engineer  
-- AI Engineer  
-- AI Solutions Engineer  
-- LLM Engineer  
-- Full-Stack AI Developer  
+### Website
+
+https://tetiana-a.github.io/aiAutomationDev/
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/tetiana-kotolup">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/tetiana-a">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+# 💼 Open to Opportunities
+
+✅ AI Automation Engineer
+
+✅ AI Engineer
+
+✅ AI Solutions Engineer
+
+✅ LLM Engineer
+
+✅ Full-Stack AI Developer
+
+✅ AI Platform Engineer
 
 ---
 
 <div align="center">
 
-### ⭐ Building AI systems that solve real business problems.
+## ⭐ Building AI systems that solve real business problems.
 
 </div>
