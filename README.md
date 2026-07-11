@@ -6,27 +6,36 @@
 
 ```
 
-        _____________________      tetiana@github
-       /                     \     ---------------
-      /   ┌─────────────┐    \     OS:                     AI Automation Engineer
-     /    │  ◉       ◉  │     \    Host:                   Full-Stack AI Developer
-    |     │      __     │      |   Kernel:                 n8n x OpenAI API x Node.js
-    |     │     |__|    │      |   Uptime:                 Building production AI systems
-     \    └─────────────┘     /    IDE:                    VS Code / Cursor
-      \_______|  |  |________/
-        [■]   |__|  [■]            Languages.Programming:  TypeScript, JavaScript, Python
-       /   \       /   \           Languages.Frameworks:   React, Next.js, Express
-      /     \     /     \          Languages.AI:           OpenAI API, RAG, AI Agents
-     ▓       ▓   ▓       ▓         Stack.Data:             PostgreSQL, Supabase
-                                   Stack.Automation:       n8n, Webhooks, REST APIs
-
-                                   Projects:               AI CRM, WealthMirror AI
-                                                            MindPocket, Eco Italia
-                                                            AI Sales Automation
-
-                                   Location:               Brno, Czech Republic
-                                   LinkedIn:               tetiana-kotolup
-                                   Portfolio:              tetiana-a.github.io/aiAutomationDev
+                                                                      tetiana@github
+                                                                    .. ---------------
+                           ..............                          ... OS:                     AI Automation Engineer
+                      ...:::--=+*#####%#*+==-..                    .   Host:                   Full-Stack AI Developer
+                  ...:::::-=*%@@@@@@@@@@@@@@@#+-...                .   Kernel:                 n8n x OpenAI API x Node.js
+                ..:::::::-*%@@@@@@@@@@@@@@@@@@@#+-::.              .   Uptime:                 Building production AI systems
+             ...:::::::-+#@@@@@@@@@%%%%%%%@@@@@@@#-:::..           .   IDE:                    VS Code / Cursor
+            ..::::::::-+%@@@@@%##**++=++++*##%@@@@%-::::.          .
+          ..:::::::::-+%@@@@%*+====---======++#%@@@*-:::::.        .   Languages.Programming:  TypeScript, JavaScript, Python
+         ....::::::::=%@@@%#+=-------------===+*%@@#-::::::.       .   Languages.Frameworks:   React, Next.js, Express
+        .....:::::::-*%@@@%+=-----::::::::----=+#%@#--::::::.      .   Languages.AI:           OpenAI API, RAG, AI Agents
+       ......:::::::-+@@@%*=-----::::::::::---=+*#@#---:-::::.     .   Stack.Data:             PostgreSQL, Supabase
+      .......:::::::-*%@@#========-:::::::::--=+*#@*-----:::::.    .   Stack.Automation:       n8n, Webhooks, REST APIs
+      ......::::::::-==*@*======++**+=-:::-=++**#%#=-----:::::.    .
+      ......::::::::---=*+=-=+####**+=-::=+*##**##=------::::::    .   Projects:               AI CRM, WealthMirror AI
+     ........:::::::--==**=---====++=--:=++*###%#*=------::::::.   .                            MindPocket, Eco Italia
+     ........::::::---*=+*+--:::::------=*===+*#*==------::::::.   .                            AI Sales Automation
+     ........::::::-----=##*+--::::::--==-+*=--=+*====------:::::.   .
+     .......::::::-----=#*+=-:::::-===---*=---*+======--------:.   .   Location:               Brno, Czech Republic
+      ....:::::::-----===++---:::::-----==---+*+=======-------.    .   LinkedIn:               tetiana-kotolup
+      ..:::::::------====+*+-:-:-======+*+=-+*++++++=======---.    .   Portfolio:              tetiana-a.github.io/aiAutomationDev
+       .::::------=====+**+------===++++=+++++++++++=======.     .
+        .::::------=====+++*++=----::--=++*=+==========--==-:      .
+         .:------========+**+===------=++#*:----:-======---.       .
+          .:----======-::-+*+==-----====+#+:--::::-===--:......    .
+           .:-=======::::..-+++=--=-=++++*=:::::::---=-: -=+- .    .
+             .:-=----:.......:=+**++++++**-:::---=----:..:--...    .
+               ..:-----:::-=::.:-=+====+++:::::----:..  ......     .
+                  .:::-=----::::..-=+=====:::::-:..                .
+                     ..:::::::::::.:-++===::....                   .
 
 ```
 
