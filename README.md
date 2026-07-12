@@ -4,39 +4,34 @@
 
 </div>
 
+<div align="center">
+
+https://raw.githubusercontent.com/tetiana-a/tetiana-a/main/video_2026-07-12_04-19-59.mp4
+
+</div>
+
 ```
+tetiana@github
+---------------
+OS:                     AI Automation Engineer
+Host:                   Full-Stack AI Developer
+Kernel:                 n8n x OpenAI API x Node.js
+Uptime:                 Building production AI systems
+IDE:                    VS Code / Cursor
 
-                                                                      tetiana@github
-                                                                    .. ---------------
-                           ..............                          ... OS:                     AI Automation Engineer
-                      ...:::--=+*#####%#*+==-..                    .   Host:                   Full-Stack AI Developer
-                  ...:::::-=*%@@@@@@@@@@@@@@@#+-...                .   Kernel:                 n8n x OpenAI API x Node.js
-                ..:::::::-*%@@@@@@@@@@@@@@@@@@@#+-::.              .   Uptime:                 Building production AI systems
-             ...:::::::-+#@@@@@@@@@%%%%%%%@@@@@@@#-:::..           .   IDE:                    VS Code / Cursor
-            ..::::::::-+%@@@@@%##**++=++++*##%@@@@%-::::.          .
-          ..:::::::::-+%@@@@%*+====---======++#%@@@*-:::::.        .   Languages.Programming:  TypeScript, JavaScript, Python
-         ....::::::::=%@@@%#+=-------------===+*%@@#-::::::.       .   Languages.Frameworks:   React, Next.js, Express
-        .....:::::::-*%@@@%+=-----::::::::----=+#%@#--::::::.      .   Languages.AI:           OpenAI API, RAG, AI Agents
-       ......:::::::-+@@@%*=-----::::::::::---=+*#@#---:-::::.     .   Stack.Data:             PostgreSQL, Supabase
-      .......:::::::-*%@@#========-:::::::::--=+*#@*-----:::::.    .   Stack.Automation:       n8n, Webhooks, REST APIs
-      ......::::::::-==*@*======++**+=-:::-=++**#%#=-----:::::.    .
-      ......::::::::---=*+=-=+####**+=-::=+*##**##=------::::::    .   Projects:               AI CRM, WealthMirror AI
-     ........:::::::--==**=---====++=--:=++*###%#*=------::::::.   .                            MindPocket, Eco Italia
-     ........::::::---*=+*+--:::::------=*===+*#*==------::::::.   .                            AI Sales Automation
-     ........::::::-----=##*+--::::::--==-+*=--=+*====------:::::.   .
-     .......::::::-----=#*+=-:::::-===---*=---*+======--------:.   .   Location:               Brno, Czech Republic
-      ....:::::::-----===++---:::::-----==---+*+=======-------.    .   LinkedIn:               tetiana-kotolup
-      ..:::::::------====+*+-:-:-======+*+=-+*++++++=======---.    .   Portfolio:              tetiana-a.github.io/aiAutomationDev
-       .::::------=====+**+------===++++=+++++++++++=======.     .
-        .::::------=====+++*++=----::--=++*=+==========--==-:      .
-         .:------========+**+===------=++#*:----:-======---.       .
-          .:----======-::-+*+==-----====+#+:--::::-===--:......    .
-           .:-=======::::..-+++=--=-=++++*=:::::::---=-: -=+- .    .
-             .:-=----:.......:=+**++++++**-:::---=----:..:--...    .
-               ..:-----:::-=::.:-=+====+++:::::----:..  ......     .
-                  .:::-=----::::..-=+=====:::::-:..                .
-                     ..:::::::::::.:-++===::....                   .
+Languages.Programming:  TypeScript, JavaScript, Python
+Languages.Frameworks:   React, Next.js, Express
+Languages.AI:           OpenAI API, RAG, AI Agents
+Stack.Data:             PostgreSQL, Supabase
+Stack.Automation:       n8n, Webhooks, REST APIs
 
+Projects:               AI CRM, WealthMirror AI
+                        MindPocket, Eco Italia
+                        AI Sales Automation
+
+Location:               Brno, Czech Republic
+LinkedIn:               tetiana-kotolup
+Portfolio:              tetiana-a.github.io/aiAutomationDev
 ```
 
 <div align="center">
