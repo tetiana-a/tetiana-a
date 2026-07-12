@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/tetiana-a/tetiana-a/main/demo.gif" width="380"/>
+<img src="https://raw.githubusercontent.com/tetiana-a/tetiana-a/main/demo (1).gif" width="380"/>
 
 </div>
 
