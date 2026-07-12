@@ -1,38 +1,15 @@
 <div align="center">
 
 # 👋 Hi, I'm Tetiana Kotolup
-
 </div>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/tetiana-a/tetiana-a/main/demo (1).gif" width="380"/>
+<img src="https://raw.githubusercontent.com/tetiana-a/tetiana-a/main/video_2026-07-12_04-19-59 (1) (1).gif" width="480"/>
 
 </div>
 
-```
-tetiana@github
----------------
-OS:                     AI Automation Engineer
-Host:                   Full-Stack AI Developer
-Kernel:                 n8n x OpenAI API x Node.js
-Uptime:                 Building production AI systems
-IDE:                    VS Code / Cursor
 
-Languages.Programming:  TypeScript, JavaScript, Python
-Languages.Frameworks:   React, Next.js, Express
-Languages.AI:           OpenAI API, RAG, AI Agents
-Stack.Data:             PostgreSQL, Supabase
-Stack.Automation:       n8n, Webhooks, REST APIs
-
-Projects:               AI CRM, WealthMirror AI
-                        MindPocket, Eco Italia
-                        AI Sales Automation
-
-Location:               Brno, Czech Republic
-LinkedIn:               tetiana-kotolup
-Portfolio:              tetiana-a.github.io/aiAutomationDev
-```
 
 <div align="center">
 
