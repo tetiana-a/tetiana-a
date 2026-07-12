@@ -6,7 +6,7 @@
 
 <div align="center">
 
-https://raw.githubusercontent.com/tetiana-a/tetiana-a/main/video_2026-07-12_04-19-59.mp4
+<img src="https://raw.githubusercontent.com/tetiana-a/tetiana-a/main/demo.gif" width="380"/>
 
 </div>
 
