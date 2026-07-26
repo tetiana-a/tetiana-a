@@ -4,7 +4,7 @@
 
 ### AI Automation Engineer based in Brno, Czech Republic
 
-<img src="https://raw.githubusercontent.com/tetiana-a/tetiana-a/main/profile-banner.gif" width="480" alt="Tetiana Kotolup — AI Automation Engineer"/>
+<img src="https://raw.githubusercontent.com/tetiana-a/tetiana-a/main/video_2026-07-12_04-19-59 (1) (1).gif" width="480" alt="Tetiana Kotolup — AI Automation Engineer"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=850&lines=Building+Practical+AI+Automation+Systems;AI+Agents+%7C+RAG+%7C+Workflow+Automation;OpenAI+%7C+n8n+%7C+PostgreSQL;Automating+Real+Business+Processes" />
 
