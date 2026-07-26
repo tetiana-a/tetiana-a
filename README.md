@@ -72,8 +72,7 @@ I build AI agents, workflow automations, and API-driven business systems — tur
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=tetiana-a&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tetiana-a&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/tetiana-a/tetiana-a/main/metrics.svg" alt="GitHub metrics" width="100%"/>
 
 </div>
 
