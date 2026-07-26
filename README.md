@@ -80,6 +80,7 @@ I design and build production-ready AI automation systems that eliminate manual 
 
 | Project | Description |
 |---------|-------------|
+| 📊 **AI Trading Journal** | Privacy-first trading journal with automatic PNL analytics, live Binance prices, calendar insights and AI-assisted trade reviews. |
 | 🤖 **AI CRM** | AI-powered CRM with Telegram integration, lead qualification, customer management and workflow automation. |
 | 📩 **AI Email Processing Platform** | AI agent for email classification, sentiment analysis, priority detection and automated responses. |
 | 💰 **WealthMirror AI** | Financial AI assistant powered by OpenAI, PostgreSQL, Telegram Bot and TypeScript. |
@@ -90,6 +91,9 @@ I design and build production-ready AI automation systems that eliminate manual 
 ---
 
 # 📂 Project Links
+### 📊 AI Trading Journal
+
+https://github.com/tetiana-a/ai-trading-journal
 
 ### 🤖 AI CRM
 
