@@ -79,6 +79,20 @@ I build AI agents, workflow automations, and API-driven business systems — tur
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tetiana-a/tetiana-a/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tetiana-a/tetiana-a/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/tetiana-a/tetiana-a/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
 ## 💼 Open to Opportunities
 
 - AI Automation Engineer
